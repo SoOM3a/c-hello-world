@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-main()
+int main()
 {
   printf("Hi, welcome to V1CS\n");
 }
