@@ -1,5 +1,7 @@
+#include <stdio.h>
+
 main()
 {
-  printf("hello, world\n");
+  printf("Hi, welcome to V1CS\n");
 }
 
